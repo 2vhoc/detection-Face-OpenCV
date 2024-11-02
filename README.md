@@ -8,4 +8,3 @@ pip install opencv-python
 pip install tk
 </code></pre>
 
-## Email process: 2vhocwork@gmail.com
